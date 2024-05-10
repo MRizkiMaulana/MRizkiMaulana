@@ -1,4 +1,4 @@
-![coffee-need](https://github.com/MRizkiMaulana/MRizkiMaulana/assets/100768439/89a07009-0add-4dcc-b6ff-3cf2fbba129a)
+
 <h1 align="center">Hi 👋, I'm Muhamad Rizki Maulana</h1>
 <h3 align="center"> Hanya Seorang Pemula!!</h3>
 
