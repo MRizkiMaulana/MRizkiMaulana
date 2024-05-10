@@ -3,7 +3,7 @@
 <h3 align="center"> Hanya Seorang Pemula!!</h3>
 
 
-<img align="right" alt="Coffee Need GIF" width="400" src="https://tenor.com/view/coffee-need-needcoffee-insert-coffee-to-continue-gif-9821851">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/fleischerstudios-coffee-coffe-first-1JCU1Oj2V6KAAKfu3Q" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizkimaulana&label=Profile%20views&color=0e75b6&style=flat" alt="mrizkimaulana" /> </p>
