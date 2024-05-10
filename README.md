@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhamad Rizki Maulana</h1>
 <h3 align="center"> Hanya Seorang Pemula!!</h3>
