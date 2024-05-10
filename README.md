@@ -1,9 +1,9 @@
-
+![coffee-need](https://github.com/MRizkiMaulana/MRizkiMaulana/assets/100768439/89a07009-0add-4dcc-b6ff-3cf2fbba129a)
 <h1 align="center">Hi 👋, I'm Muhamad Rizki Maulana</h1>
 <h3 align="center"> Hanya Seorang Pemula!!</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/fleischerstudios-coffee-coffe-first-1JCU1Oj2V6KAAKfu3Q" >
+<img align="right" alt="Coding" width="400" src="https://github.com/MRizkiMaulana/MRizkiMaulana/assets/100768439/d8ea8682-ceff-4e1b-9d9e-a901c2996c30" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizkimaulana&label=Profile%20views&color=0e75b6&style=flat" alt="mrizkimaulana" /> </p>
